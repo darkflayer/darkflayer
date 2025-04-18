@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jatin sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatin sharma" height="30" width="40" /></a>
-<a href="https://kaggle.com/jatin030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jatin030" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jatinsharma0414" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jatinsharma0414" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jatinsharma0414" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jatinsharma0414" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hemant-singh-b48815239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemant singh" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/hemantsinghrautan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hemant singh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/rautanhemu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hemant singh" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/hemant_singh123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hemantsingh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
