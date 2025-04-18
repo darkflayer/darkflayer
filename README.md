@@ -2,7 +2,7 @@
 <h3 align="center">💡 Interests: Data Analytics, Competitive Programming, AI Projects, and Full-Stack Development</h3>
 
 <h3 align="center">
-🚀 Skills: C++, SQL, Python, Data Structures & Algorithms, Django, REST APIs
+🚀 Skills: C,C++, SQL,MongoDB, Python, Data Structures & Algorithms, Django, REST APIs,Deployements
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemantsingh&label=Profile%20views&color=0e75b6&style=flat" alt="hemantsingh" /> </p>
